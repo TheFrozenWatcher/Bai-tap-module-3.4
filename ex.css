@@ -1,0 +1,111 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.btn {
+  width: 190px;
+  height: 36px;
+  padding: 0 16x;
+  color: whitesmoke;
+  text-align: center;
+  border: 1px solid transparent;
+  padding: 5px 10px;
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.center {
+  display: block;
+  margin: 0;
+  width: max-content;
+}
+
+a {
+  color: aqua;
+  font-style: normal;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.container {
+  padding: 40px;
+  text-align: center;
+}
+
+.header-button {
+}
+
+.btn-violet {
+  background-color: rgba(133, 152, 204, 1);
+}
+
+.btn-black {
+  background-color: black;
+}
+
+.body {
+  font-size: 14px;
+  width: 100%;
+  height: 100%;
+  background-color: #ffff;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 40px 0;
+  text-align: center;
+  color: #fff;
+}
+.footer {
+  margin: 40px 0;
+}
+
+.wrapper {
+  height: 500px;
+  width: 60%;
+  margin: 20px auto;
+    background-image: url("https://d1hjkbq40fs2x4.cloudfront.net/2017-08-21/files/landscape-photography_1645-t.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  line-height: 500px;
+  }
+
+.header {
+  background-color: #000;
+  color: #ffff;
+  height: 50px;
+}
+
+.homepage {
+  background-color: #000;
+  color: #ffff;
+  cursor: pointer;
+}
+
+.header:first-child {
+  font-size: 30px;
+  background-color: #000;
+  color: #ffff;
+  cursor: pointer;
+  height: 50px;
+}
+
+.form {
+  width: max-content;
+  background-color: #fff;
+  margin: auto;
+  font-family: "Times New Roman", Times, serif;
+}
+
+input {
+  width: 400px;
+}
+
+.align-right {
+  text-align: right;
+  border: 1 solid transparent;
+  margin-right: 0;
+}
+
+.register-input {margin-left: 20px;}
+
+.register-input {background-color: whitesmoke;}

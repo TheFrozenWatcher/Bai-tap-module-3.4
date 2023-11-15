@@ -1,0 +1,47 @@
+.btn {
+  height: 36px;
+  min-width: 80px;
+  max-width: 100px;
+  padding: 0px 16px;
+  border-radius: 4px;
+  border: 1px solid transparent;
+  text-align: center;
+  line-height: 36px;
+  cursor: pointer;
+  background-color: #50b83c;
+  color: #ffffff;
+}
+
+.btn-danger {
+  background-color: red;
+}
+.btn-primary {
+  background-color: #50b83c;
+}
+.btn-primary:hover {
+  background-color: #73c663;
+}
+.btn-primary:active {
+  background-color: #409330;
+}
+.input {
+  height: 36px;
+  padding: 0px 16px;
+  border-radius: 4px;
+  outline: none;
+  border: 1px solid #bfcbd0;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+ }
+.input:hover {
+    box-shadow: rgba(0, 0, 0, 0.15); 0px 4px 3px}
+.input:focus {
+    border-color: #50b83c;}
+.input-checkbox {
+    height: 20px;
+     width: 20px;
+     cursor: pointer;}
+.container {height: 100px; background-color: aqua; width: 50%;}
+.box-1 {height: 100px; width: 50%; background-color: blue;}
+/*
+.btn:hover {background-color: #73c663;}
+.btn:active {background-color: #479330;}*/
